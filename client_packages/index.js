@@ -1,2 +1,1 @@
-
-require('./src/fractions/npc_robbery');
+require('./src/fractions/npcRobbery');
